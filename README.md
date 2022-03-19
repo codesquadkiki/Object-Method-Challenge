@@ -1,5 +1,5 @@
 # Object Method Challenge
-Below are 4 descriptions that will need to turn into an object. The first one has been completed together in class as a demo. Each object has at least one property and a method. For the 5th description, you are asked to create your own object that contains a property and a method.
+Below are 4 descriptions that will need to turn into an object. Each object has at least one property and a method. For the 5th description, you are asked to create your own object that contains a property and a method.
 
 1. A **hotel** with two properties called **totalRooms** and **bookedRooms**. The values for both properties can be any number. A **remainingRooms()** method (VERSION 2 - ES6) should return the remaining number of rooms that a hotel has. Console.log a message that says, "There are `##` of rooms available for booking." The ## in this message should be referenced dynamically from the remainingRooms()method. 
 
